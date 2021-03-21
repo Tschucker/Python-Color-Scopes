@@ -15,15 +15,15 @@ Test image
 
 
 ### Black and White
-![](output_images/BW_color_scope.png)
+![](output_images/BW_Color_Scope.png)
 
 
 ### RGB Parade
-![](output_images/R_color_scope.png)
+![](output_images/R_Color_Scope.png)
 
-![](output_images/G_color_scope.png)
+![](output_images/G_Color_Scope.png)
 
-![](output_images/B_color_scope.png)
+![](output_images/B_Color_Scope.png)
 
 
 ### Full Waveform
